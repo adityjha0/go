@@ -20,3 +20,7 @@
 - [Recursion](recursion.go)
 - [Pointers](pointers.go)
 - [Strings & Runes](stringsrunes.go)
+- [Structs](structs.go)
+- [Methods](methods.go)
+- [Interfaces](interfaces.go)
+- [Struct Embedding](structembed.go)
